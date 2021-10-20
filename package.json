@@ -1,0 +1,21 @@
+{
+  "name": "mnemonic",
+  "version": "1.0.0",
+  "description": "Internship task mnemonic.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "author": "Erik Thinn Tvedt",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "jest": "^27.3.0",
+    "superagent": "^6.1.0",
+    "supertest": "^6.1.6"
+  }
+}
